@@ -8,3 +8,4 @@ Languages supported :
 * Javascript
 * JSON
 * XML
+* SQL
